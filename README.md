@@ -4,8 +4,7 @@ Big Data Project on Audio Processing
 
 ### Libraries Used
 
- 
-## Built With
+Built With
 
 * [Jupyter Notebook] 
 
