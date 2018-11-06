@@ -1,1 +1,3 @@
 *VAD Intro: https://www.kaggle.com/jerrypeng/dsp-tutorial-3-demos-for-speech-processing
+
+*Splitting into words with AudioSegment (Higher success rate yet I cannot run..): https://stackoverflow.com/questions/36458214/split-speech-audio-file-on-words-in-python/36461422
