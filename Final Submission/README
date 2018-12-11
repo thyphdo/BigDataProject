@@ -1,0 +1,12 @@
+## Note
+
+In order to run this script:
+
+    1. all .wav file should be already processed into .csv file 
+    2. This script should be in the same folder with all .csv files listed in 'filename' list 
+    
+The algorithms are performed based on the following assumptions:
+    
+    1. The wave data (after PDA step) is compressed to a list of 20x4 matrix. 20 rows is chosen by the MFCC normalize algorithm and 4 features is chosen as the component number at PDA step. These two parameters can be modified.
+    
+    2. The 20x4 matrix is flattened (reshape) to a 80-element list. Data X is a 203 rows of a single column containing a list of 80 element.
